@@ -1,0 +1,686 @@
+[
+  {
+    "id": 0,
+    "heading": "Service Fees",
+    "items": [
+      {
+        "id": 0,
+        "item": "Arrangement and conducting of a regular service",
+        "unitPrice": 1584,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Arrangement and conducting of an extended service",
+        "unitPrice": 1914,
+        "includesGST": true
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "heading": "Surcharges",
+    "items": [
+      {
+        "id": 0,
+        "item": "Require additional staff",
+        "unitPrice": 496,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Saturday Surcharge ",
+        "unitPrice": 716,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Out of town surcharge - Town 1",
+        "unitPrice": 810,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Out of town surcharge - Town 2",
+        "unitPrice": 1390,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Out of town surcharge - Town 3",
+        "unitPrice": 2030,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Out of town surcharge - Town 4",
+        "unitPrice": 2650,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Out of town surcharge - Town 5",
+        "unitPrice": 2340,
+        "includesGST": true
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "heading": "Venue Hire",
+    "items": [
+      {
+        "id": 0,
+        "item": "Venue 1",
+        "unitPrice": 386,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Venue 2",
+        "unitPrice": 232,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Venue 3",
+        "unitPrice": 289,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Venue 4",
+        "unitPrice": 58,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Venue 5",
+        "unitPrice": 1048,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Venue 6",
+        "unitPrice": 1048,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Venue 7",
+        "unitPrice": 660,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Other",
+        "unitPrice": 0,
+        "includesGST": true
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "heading": "Preparation",
+    "items": [
+      {
+        "id": 0,
+        "item": "Collection of documents",
+        "unitPrice": 374,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Processing of paperwork",
+        "unitPrice": 188,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Validation of Data",
+        "unitPrice": 352,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Duplication of documents",
+        "unitPrice": 264,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Printing of documents",
+        "unitPrice": 242,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Formal documentation,
+        "unitPrice": 484,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Drafting of paperless docs",
+        "unitPrice": 325,
+        "includesGST": true
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "heading": "Govenment Certificates",
+    "items": [
+      {
+        "id": 0,
+        "item": "Certificate from Government",
+        "unitPrice": 59,
+        "includesGST": false
+      },
+      {
+        "id": 0,
+        "item": "Postage from Government",
+        "unitPrice": 17,
+        "includesGST": true
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "heading": "Officiants",
+    "items": [
+      {
+        "id": 0,
+        "item": "Officiant 1",
+        "unitPrice": 440,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Officiant 2",
+        "unitPrice": 560,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Officiant 3",
+        "unitPrice": 330,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Officiant 4",
+        "unitPrice": 330,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Officiant 5",
+        "unitPrice": 385,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Officiant 6",
+        "unitPrice": 330,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Officiant 7",
+        "unitPrice": 330,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Officiant 8",
+        "unitPrice": 385,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Officiant 9",
+        "unitPrice": 55,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Officiant 10",
+        "unitPrice": 0.71,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Other",
+        "unitPrice": 0,
+        "includesGST": true
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "heading": "Presentation Box",
+    "items": [
+      {
+        "id": 0,
+        "item": "Lemon Tree",
+        "unitPrice": 971,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Basic Teak",
+        "unitPrice": 1761,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Basic Teak - OVERSIZE",
+        "unitPrice": 1982,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Swan Country Oak",
+        "unitPrice": 1982,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Swan Country Oak - OVERSIZE",
+        "unitPrice": 2202,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Swan Rosewood",
+        "unitPrice": 2423,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Swan Rosewood - OVERSIZE",
+        "unitPrice": 2644,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Norwood Jarrah",
+        "unitPrice": 2423,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Norwood Jarrah - OVERSIZE",
+        "unitPrice": 2644,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Swan White",
+        "unitPrice": 2707,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Swan White - OVERSIZE",
+        "unitPrice": 2928,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Montrose (Gold)",
+        "unitPrice": 2928,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Montrose (Gold) - OVERSIZE",
+        "unitPrice": 3117,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Creswick Oak",
+        "unitPrice": 3253,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Creswick Oak - OVERSIZE",
+        "unitPrice": 3448,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Grecian Rosewood",
+        "unitPrice": 3527,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Grecian Rosewood - OVERSIZE",
+        "unitPrice": 3739,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Grecian White ",
+        "unitPrice": 3527,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Grecian White - OVERSIZE ",
+        "unitPrice": 3739,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Brighton (Gold)",
+        "unitPrice": 2928,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Brighton (Gold) - OVERSIZE",
+        "unitPrice": 3117,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Whitehall",
+        "unitPrice": 3253,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Whitehall - OVERSIZE",
+        "unitPrice": 3448,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Rundle Pine (Raw - solid pine)",
+        "unitPrice": 3253,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Rundle Pine (Raw - solid pine) - OVERSIZE",
+        "unitPrice": 3448,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Denman Cedar (Gold)",
+        "unitPrice": 3747,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Denman Cedar (Gold) - OVERSIZE",
+        "unitPrice": 3942,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Blackwood (Bronze)",
+        "unitPrice": 4189,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Blackwood (Bronze) - OVERSIZE",
+        "unitPrice": 4440,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Raymond Rosewood",
+        "unitPrice": 4409,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Raymond Rosewood - OVERSIZE",
+        "unitPrice": 4735,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Grecian Blackwood (Bronze) ",
+        "unitPrice": 4467,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Grecian Blackwood (Bronze) - OVERSIZE",
+        "unitPrice": 4735,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Cambridge",
+        "unitPrice": 6622,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Frederick (Bronze)",
+        "unitPrice": 8829,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Other",
+        "unitPrice": 0,
+        "includesGST": true
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "heading": "Advertisiing",
+    "items": [
+      {
+        "id": 0,
+        "item": "Newspaper 1",
+        "unitPrice": 340,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Facebook",
+        "unitPrice": 0,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Larger Sized Notice",
+        "unitPrice": 450,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Other",
+        "unitPrice": 0,
+        "includesGST": true
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "heading": "Catering",
+    "items": [
+      {
+        "id": 0,
+        "item": "Complimentary Water, Tea & Coffee",
+        "unitPrice": 0,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Bottled Juice (per head)",
+        "unitPrice": 5,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Package: Sandwiches & Cakes Only (per head)",
+        "unitPrice": 15,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Package: Sandwiches, Cakes, Hot Food (per head)",
+        "unitPrice": 19,
+        "includesGST": true
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "heading": "Memorabilia",
+    "items": [
+      {
+        "id": 0,
+        "item": "Designing or converting family to suit",
+        "unitPrice": 88,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Printing of A6 front/back",
+        "unitPrice": 1,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Printing of A6 folded",
+        "unitPrice": 2,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Printing of A5 Booklets (4 - page)",
+        "unitPrice": 3,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Printing of A5 Booklets (8 - page)",
+        "unitPrice": 4,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Printing of A5 Booklets (12 - page)",
+        "unitPrice": 6,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Bookmarks",
+        "unitPrice": 2,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Guest Package - Complimentary if with a service",
+        "unitPrice": 0,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Guest Package (addtnl copy)",
+        "unitPrice": 37,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "DVD or USB of Recordings ",
+        "unitPrice": 6,
+        "includesGST": true
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "heading": "Equipment Hire",
+    "items": [
+      {
+        "id": 0,
+        "item": "Livestreaming and or Recording in our building ",
+        "unitPrice": 0,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Recording off site",
+        "unitPrice": 386,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Audio equipment (microphones, MiPros, iPad, etc) - Offsite excluding interment",
+        "unitPrice": 122,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Video equipment (Projector, projector screen)",
+        "unitPrice": 218,
+        "includesGST": true
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "heading": "Floral Arrangement",
+    "items": [
+      {
+        "id": 0,
+        "item": "Box/Vase of Flowers",
+        "unitPrice": 200,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Spray Std Natives or Mixed ",
+        "unitPrice": 350,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Spray Std Roses",
+        "unitPrice": 400,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Artificial Spray Arrangement (special conditions)",
+        "unitPrice": 150,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Fresh Roses",
+        "unitPrice": 10,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Gum Leaves (per person)",
+        "unitPrice": 0.5,
+        "includesGST": true
+      },
+      {
+        "id": 0,
+        "item": "Other",
+        "unitPrice": 0,
+        "includesGST": true
+      }
+    ]
+  }
+]
